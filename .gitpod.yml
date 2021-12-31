@@ -1,6 +1,0 @@
-ports:
-- onOpen: open-preview
-  port: 3000
-tasks:
-- command: echo 'start script'
-  init: echo 'init script'
